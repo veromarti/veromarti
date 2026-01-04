@@ -86,5 +86,5 @@ Linux                    5 hrs 57 mins       ███████████�
   </a>
 
 -----
-Credits: [Yogesh](https://github.com/vibrantfix)-->
+<!--Credits: [Yogesh](https://github.com/vibrantfix)-->
 
