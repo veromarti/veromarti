@@ -15,9 +15,9 @@
 - 🤔 My hobbies are **listen to music 🎵 and swim**.
 - 💬 If you have any questions, **just ask me**.
 
-<h3 align="left"> 📫 How to reach me:</h3>
+<!--<h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/verónica-m-b99390137" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="www.linkedin.com/in/verónica-m-b99390137" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>-->
 </p>
 <br>
         
@@ -34,10 +34,10 @@
 
 
 </p>
+<!--
+<h3>💻 GitHub Profile Stats</h3>-->
 
-<h3>💻 GitHub Profile Stats</h3>
-
-<p>
+<!--<p>
 <a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-vibrantfix.vercel.app/api?username=vibrantfix&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
 <a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=vibrantfix&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
@@ -46,7 +46,7 @@
 
 <!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -72,19 +72,19 @@ Python                   11 mins             █░░░░░░░░░░�
 
 💻 Operating System: 
 Linux                    5 hrs 57 mins       █████████████████████████   100.00 % 
-```
+``` -->
 
 
- Last Updated on 13/04/2023 09:07:31 UTC
+<!-- Last Updated on 13/04/2023 09:07:31 UTC-->
 <!--END_SECTION:waka-->
 <br>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
+<!--<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
 
 -----
-<!--Credits: [Yogesh](https://github.com/vibrantfix)-->
+Credits: [Yogesh](https://github.com/vibrantfix)-->
 
