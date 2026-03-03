@@ -3,7 +3,7 @@
 </h1>
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  I'm Vero , I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵. I'm currently into Full stack Web Development 🕸️.
+  I'm Vero , I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen to music 🎵. I'm currently into Full stack Web Development 🕸️.
 </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
@@ -12,7 +12,7 @@
 
 - 🎓 I am a **Bioengineer**.
 - 🌱 I'm currently learning **Software development and Python**. 
-- 🤔 My hobbies are **listen to music 🎵 and swim**.
+- 🤔 My hobbies are **listen to music 🎵 and artistic swimmming**.
 - 💬 If you have any questions, **just ask me**.
 
 <!--<h3 align="left"> 📫 How to reach me:</h3>
